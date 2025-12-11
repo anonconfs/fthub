@@ -1,0 +1,18 @@
+# The URL the site will be built for
+base_url = "/fthub/"
+
+# Whether to automatically compile all Sass files in the sass directory
+compile_sass = true
+
+# Whether to build a search index to be used later on by a JavaScript library
+build_search_index = false
+
+[markdown]
+# Whether to do syntax highlighting
+highlight_code = false
+
+[extra]
+# Site info
+title = "Feature Toggle Hub"
+# description = "Research, tools, and resources for removing feature toggles"
+author = "anonymous"
